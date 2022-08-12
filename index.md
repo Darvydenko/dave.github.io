@@ -4,15 +4,15 @@
 
 ### PROJECT 1
 
-[Cover Page](/sample_page)
+[Cover Page]
 <img src="/cover.jpeg?raw=true"/>
 
 ---
-[Introduction](/pdf/sample_presentation.pdf)
+[Introduction]
 <img src="intro.jpeg?raw=true"/>
 
 ---
-[Objectives](http://example.com/)
+[Objectives]
 <img src="obj.jpeg?raw=true"/>
 
 ---
