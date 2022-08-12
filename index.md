@@ -57,10 +57,6 @@
 
 ---
 
-[Appreciation]
-<img src="Thank.jpeg?raw=true"/>
-
----
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
