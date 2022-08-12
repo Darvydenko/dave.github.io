@@ -2,26 +2,22 @@
 
 ---
 
-### Category Name 1 
+### PROJECT 1
 
-[Data Cleaning Project](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Prediction Project](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Cover Page](/sample_page)
+<img src="images/cover.jpg?raw=true"/>
 
 ---
-[Visualization Project](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Introduction](/pdf/sample_presentation.pdf)
+<img src="images/intro.jpg?raw=true"/>
+
+---
+[Objectives](http://example.com/)
+<img src="images/obj.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
 
-- [Data Cleaning Project](http://example.com/)
-- [Prediction Projec](http://example.com/)
-- [Visualization Project](http://example.com/)
 
 
 
